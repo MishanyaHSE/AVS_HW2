@@ -1,0 +1,33 @@
+Sorted container:
+Container contains 15 elements.
+0: It is a Plane: range = 3000, lifting capacity = 600
+Perfect time = 5.000000
+1: It is a Train: wagons number = 60, 
+Perfect time = 4.000000 
+2: It is a Plane: range = 8000, lifting capacity = 1200
+Perfect time = 2.500000
+3: It is a Plane: range = 3000, lifting capacity = 600
+Perfect time = 5.000000
+4: It is a Train: wagons number = 60, 
+Perfect time = 4.000000 
+5: It is a Plane: range = 8000, lifting capacity = 1200
+Perfect time = 2.500000
+6: It is a Plane: range = 3000, lifting capacity = 600
+Perfect time = 5.000000
+7: It is a Train: wagons number = 60, 
+Perfect time = 4.000000 
+8: It is a Plane: range = 8000, lifting capacity = 1200
+Perfect time = 2.500000
+9: It is a Ship: displacement = 150 
+It's type : TUGBOAT. Perfect time = 8.750000
+10: It is a Ship: displacement = 900 
+It's type : TANKER. Perfect time = 14.583333
+11: It is a Ship: displacement = 150 
+It's type : TUGBOAT. Perfect time = 8.750000
+12: It is a Ship: displacement = 900 
+It's type : TANKER. Perfect time = 14.583333
+13: It is a Ship: displacement = 150 
+It's type : TUGBOAT. Perfect time = 8.750000
+14: It is a Ship: displacement = 900 
+It's type : TANKER. Perfect time = 14.583333
+Average perfect time = 6.966667

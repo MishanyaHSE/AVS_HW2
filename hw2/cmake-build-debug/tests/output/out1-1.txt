@@ -1,0 +1,4 @@
+Filled container:
+Container contains 1 elements.
+0: It is a Plane: range = 3000, lifting capacity = 600
+Perfect time = 5.000000

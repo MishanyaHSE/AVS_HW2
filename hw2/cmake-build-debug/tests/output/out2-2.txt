@@ -1,0 +1,9 @@
+Sorted container:
+Container contains 3 elements.
+0: It is a Plane: range = 3000, lifting capacity = 600
+Perfect time = 5.000000
+1: It is a Train: wagons number = 60, 
+Perfect time = 4.000000 
+2: It is a Ship: displacement = 150 
+It's type : TUGBOAT. Perfect time = 8.750000
+Average perfect time = 5.916667

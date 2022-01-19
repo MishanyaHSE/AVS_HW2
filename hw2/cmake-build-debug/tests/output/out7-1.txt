@@ -1,0 +1,1002 @@
+Filled container:
+Container contains 500 elements.
+0: It is a Ship: displacement = 1818 
+It's type : TUGBOAT. Perfect time = 2.253024
+1: It is a Train: wagons number = 99, 
+Perfect time = 2.195866 
+2: It is a Ship: displacement = 987 
+It's type : LINEAR. Perfect time = 0.967418
+3: It is a Train: wagons number = 18, 
+Perfect time = 6.040638 
+4: It is a Train: wagons number = 28, 
+Perfect time = 1.159531 
+5: It is a Ship: displacement = 2433 
+It's type : TUGBOAT. Perfect time = 3.532522
+6: It is a Ship: displacement = 2274 
+It's type : TANKER. Perfect time = 6.559008
+7: It is a Ship: displacement = 2921 
+It's type : TANKER. Perfect time = 10.403846
+8: It is a Plane: range = 14, lifting capacity = 27
+Perfect time = 0.351570
+9: It is a Ship: displacement = 2979 
+It's type : TANKER. Perfect time = 2.476305
+10: It is a Train: wagons number = 64, 
+Perfect time = 3.661119 
+11: It is a Train: wagons number = 44, 
+Perfect time = 2.334611 
+12: It is a Plane: range = 90, lifting capacity = 81
+Perfect time = 0.468754
+13: It is a Train: wagons number = 45, 
+Perfect time = 2.763017 
+14: It is a Plane: range = 105, lifting capacity = 20
+Perfect time = 0.603400
+15: It is a Ship: displacement = 2697 
+It's type : TUGBOAT. Perfect time = 9.804315
+16: It is a Ship: displacement = 2824 
+It's type : LINEAR. Perfect time = 5.613098
+17: It is a Ship: displacement = 591 
+It's type : TANKER. Perfect time = 0.110147
+18: It is a Plane: range = 54, lifting capacity = 73
+Perfect time = 0.229295
+19: It is a Ship: displacement = 753 
+It's type : TANKER. Perfect time = 5.003685
+20: It is a Train: wagons number = 57, 
+Perfect time = 1.895662 
+21: It is a Ship: displacement = 2197 
+It's type : TANKER. Perfect time = 2.090304
+22: It is a Ship: displacement = 2917 
+It's type : TANKER. Perfect time = 2.733413
+23: It is a Train: wagons number = 31, 
+Perfect time = 1.615041 
+24: It is a Plane: range = 34, lifting capacity = 87
+Perfect time = 0.777585
+25: It is a Plane: range = 100, lifting capacity = 21
+Perfect time = 1.349758
+26: It is a Ship: displacement = 3435 
+It's type : TUGBOAT. Perfect time = 1.256881
+27: It is a Ship: displacement = 2367 
+It's type : LINEAR. Perfect time = 3.773218
+28: It is a Plane: range = 47, lifting capacity = 32
+Perfect time = 0.075850
+29: It is a Plane: range = 71, lifting capacity = 75
+Perfect time = 0.726129
+30: It is a Train: wagons number = 61, 
+Perfect time = 0.379344 
+31: It is a Plane: range = 15, lifting capacity = 40
+Perfect time = 0.779850
+32: It is a Train: wagons number = 42, 
+Perfect time = 0.645448 
+33: It is a Plane: range = 106, lifting capacity = 79
+Perfect time = 0.138759
+34: It is a Train: wagons number = 52, 
+Perfect time = 1.884122 
+35: It is a Ship: displacement = 3094 
+It's type : TANKER. Perfect time = 2.154710
+36: It is a Plane: range = 103, lifting capacity = 100
+Perfect time = 0.297986
+37: It is a Plane: range = 19, lifting capacity = 94
+Perfect time = 0.658000
+38: It is a Plane: range = 17, lifting capacity = 44
+Perfect time = 0.637390
+39: It is a Ship: displacement = 2089 
+It's type : LINEAR. Perfect time = 4.972493
+40: It is a Plane: range = 78, lifting capacity = 105
+Perfect time = 0.319444
+41: It is a Ship: displacement = 1537 
+It's type : TANKER. Perfect time = 1.067033
+42: It is a Ship: displacement = 2830 
+It's type : LINEAR. Perfect time = 10.986221
+43: It is a Train: wagons number = 51, 
+Perfect time = 3.651684 
+44: It is a Plane: range = 68, lifting capacity = 37
+Perfect time = 0.058823
+45: It is a Ship: displacement = 608 
+It's type : LINEAR. Perfect time = 2.886645
+46: It is a Ship: displacement = 2887 
+It's type : LINEAR. Perfect time = 5.320691
+47: It is a Plane: range = 50, lifting capacity = 17
+Perfect time = 0.847173
+48: It is a Ship: displacement = 2309 
+It's type : TANKER. Perfect time = 4.745053
+49: It is a Ship: displacement = 2378 
+It's type : TANKER. Perfect time = 5.914190
+50: It is a Train: wagons number = 96, 
+Perfect time = 3.033947 
+51: It is a Plane: range = 78, lifting capacity = 41
+Perfect time = 1.288424
+52: It is a Train: wagons number = 45, 
+Perfect time = 0.171750 
+53: It is a Plane: range = 19, lifting capacity = 55
+Perfect time = 0.746046
+54: It is a Train: wagons number = 29, 
+Perfect time = 0.382110 
+55: It is a Train: wagons number = 67, 
+Perfect time = 0.482301 
+56: It is a Plane: range = 33, lifting capacity = 99
+Perfect time = 0.618444
+57: It is a Ship: displacement = 2511 
+It's type : LINEAR. Perfect time = 9.569400
+58: It is a Train: wagons number = 21, 
+Perfect time = 3.544744 
+59: It is a Train: wagons number = 90, 
+Perfect time = 5.529341 
+60: It is a Train: wagons number = 47, 
+Perfect time = 2.192344 
+61: It is a Ship: displacement = 2536 
+It's type : TUGBOAT. Perfect time = 1.593180
+62: It is a Plane: range = 27, lifting capacity = 96
+Perfect time = 0.787228
+63: It is a Ship: displacement = 1752 
+It's type : LINEAR. Perfect time = 1.793566
+64: It is a Plane: range = 99, lifting capacity = 52
+Perfect time = 0.189026
+65: It is a Train: wagons number = 63, 
+Perfect time = 4.793110 
+66: It is a Plane: range = 57, lifting capacity = 64
+Perfect time = 0.592147
+67: It is a Plane: range = 37, lifting capacity = 68
+Perfect time = 0.418313
+68: It is a Plane: range = 72, lifting capacity = 42
+Perfect time = 0.128434
+69: It is a Plane: range = 68, lifting capacity = 23
+Perfect time = 0.003128
+70: It is a Plane: range = 65, lifting capacity = 94
+Perfect time = 1.235618
+71: It is a Plane: range = 44, lifting capacity = 11
+Perfect time = 0.493347
+72: It is a Ship: displacement = 2297 
+It's type : TUGBOAT. Perfect time = 1.490119
+73: It is a Plane: range = 58, lifting capacity = 105
+Perfect time = 0.966262
+74: It is a Train: wagons number = 43, 
+Perfect time = 3.499726 
+75: It is a Train: wagons number = 62, 
+Perfect time = 0.183294 
+76: It is a Ship: displacement = 3165 
+It's type : TUGBOAT. Perfect time = 0.454706
+77: It is a Ship: displacement = 1381 
+It's type : TUGBOAT. Perfect time = 0.220819
+78: It is a Train: wagons number = 26, 
+Perfect time = 4.681198 
+79: It is a Plane: range = 34, lifting capacity = 88
+Perfect time = 0.415416
+80: It is a Plane: range = 12, lifting capacity = 102
+Perfect time = 1.751797
+81: It is a Train: wagons number = 27, 
+Perfect time = 1.781904 
+82: It is a Plane: range = 69, lifting capacity = 27
+Perfect time = 0.775869
+83: It is a Plane: range = 54, lifting capacity = 67
+Perfect time = 0.904642
+84: It is a Plane: range = 93, lifting capacity = 94
+Perfect time = 0.282844
+85: It is a Train: wagons number = 22, 
+Perfect time = 2.650064 
+86: It is a Plane: range = 66, lifting capacity = 70
+Perfect time = 0.361314
+87: It is a Ship: displacement = 1626 
+It's type : TANKER. Perfect time = 0.745915
+88: It is a Ship: displacement = 1165 
+It's type : TUGBOAT. Perfect time = 2.939893
+89: It is a Train: wagons number = 80, 
+Perfect time = 0.274972 
+90: It is a Train: wagons number = 82, 
+Perfect time = 6.126829 
+91: It is a Train: wagons number = 53, 
+Perfect time = 2.481472 
+92: It is a Train: wagons number = 46, 
+Perfect time = 4.228749 
+93: It is a Train: wagons number = 65, 
+Perfect time = 1.155181 
+94: It is a Plane: range = 50, lifting capacity = 76
+Perfect time = 0.146684
+95: It is a Train: wagons number = 66, 
+Perfect time = 0.500275 
+96: It is a Train: wagons number = 74, 
+Perfect time = 2.190515 
+97: It is a Train: wagons number = 80, 
+Perfect time = 3.548548 
+98: It is a Ship: displacement = 2768 
+It's type : TANKER. Perfect time = 2.477038
+99: It is a Train: wagons number = 24, 
+Perfect time = 1.819803 
+100: It is a Train: wagons number = 39, 
+Perfect time = 0.053409 
+101: It is a Train: wagons number = 99, 
+Perfect time = 5.050403 
+102: It is a Ship: displacement = 2050 
+It's type : TUGBOAT. Perfect time = 1.472424
+103: It is a Ship: displacement = 1250 
+It's type : LINEAR. Perfect time = 7.628142
+104: It is a Train: wagons number = 39, 
+Perfect time = 3.103358 
+105: It is a Train: wagons number = 67, 
+Perfect time = 0.531658 
+106: It is a Plane: range = 50, lifting capacity = 54
+Perfect time = 0.481435
+107: It is a Ship: displacement = 1467 
+It's type : LINEAR. Perfect time = 5.219829
+108: It is a Train: wagons number = 41, 
+Perfect time = 0.316150 
+109: It is a Plane: range = 72, lifting capacity = 78
+Perfect time = 0.113083
+110: It is a Train: wagons number = 63, 
+Perfect time = 0.702522 
+111: It is a Train: wagons number = 73, 
+Perfect time = 2.127478 
+112: It is a Plane: range = 109, lifting capacity = 42
+Perfect time = 0.698103
+113: It is a Ship: displacement = 543 
+It's type : LINEAR. Perfect time = 3.482156
+114: It is a Train: wagons number = 69, 
+Perfect time = 0.244847 
+115: It is a Plane: range = 69, lifting capacity = 83
+Perfect time = 0.330127
+116: It is a Train: wagons number = 36, 
+Perfect time = 1.052213 
+117: It is a Plane: range = 80, lifting capacity = 7
+Perfect time = 0.209200
+118: It is a Train: wagons number = 91, 
+Perfect time = 3.293419 
+119: It is a Ship: displacement = 1961 
+It's type : TUGBOAT. Perfect time = 1.464071
+120: It is a Ship: displacement = 1924 
+It's type : LINEAR. Perfect time = 10.263223
+121: It is a Plane: range = 18, lifting capacity = 27
+Perfect time = 0.400795
+122: It is a Plane: range = 34, lifting capacity = 81
+Perfect time = 0.302056
+123: It is a Ship: displacement = 714 
+It's type : TUGBOAT. Perfect time = 1.355135
+124: It is a Plane: range = 108, lifting capacity = 44
+Perfect time = 1.239754
+125: It is a Train: wagons number = 24, 
+Perfect time = 1.838506 
+126: It is a Plane: range = 96, lifting capacity = 74
+Perfect time = 0.794778
+127: It is a Ship: displacement = 3376 
+It's type : TANKER. Perfect time = 1.353011
+128: It is a Train: wagons number = 33, 
+Perfect time = 2.542158 
+129: It is a Plane: range = 107, lifting capacity = 15
+Perfect time = 0.588176
+130: It is a Plane: range = 94, lifting capacity = 68
+Perfect time = 0.571719
+131: It is a Ship: displacement = 3440 
+It's type : TUGBOAT. Perfect time = 3.586294
+132: It is a Train: wagons number = 52, 
+Perfect time = 1.670056 
+133: It is a Ship: displacement = 1544 
+It's type : TUGBOAT. Perfect time = 7.161821
+134: It is a Plane: range = 106, lifting capacity = 38
+Perfect time = 0.510854
+135: It is a Plane: range = 51, lifting capacity = 28
+Perfect time = 0.252128
+136: It is a Plane: range = 55, lifting capacity = 87
+Perfect time = 0.656575
+137: It is a Plane: range = 48, lifting capacity = 5
+Perfect time = 0.232650
+138: It is a Plane: range = 74, lifting capacity = 66
+Perfect time = 0.881090
+139: It is a Plane: range = 80, lifting capacity = 40
+Perfect time = 0.969449
+140: It is a Plane: range = 78, lifting capacity = 79
+Perfect time = 0.534545
+141: It is a Train: wagons number = 64, 
+Perfect time = 1.510498 
+142: It is a Ship: displacement = 1340 
+It's type : LINEAR. Perfect time = 0.851853
+143: It is a Ship: displacement = 746 
+It's type : TANKER. Perfect time = 4.524744
+144: It is a Plane: range = 54, lifting capacity = 44
+Perfect time = 0.485489
+145: It is a Train: wagons number = 52, 
+Perfect time = 1.068298 
+146: It is a Plane: range = 65, lifting capacity = 39
+Perfect time = 0.047485
+147: It is a Ship: displacement = 2737 
+It's type : TUGBOAT. Perfect time = 1.782766
+148: It is a Plane: range = 51, lifting capacity = 46
+Perfect time = 0.755418
+149: It is a Ship: displacement = 1582 
+It's type : TUGBOAT. Perfect time = 3.422181
+150: It is a Plane: range = 25, lifting capacity = 105
+Perfect time = 0.138084
+151: It is a Ship: displacement = 1562 
+It's type : TANKER. Perfect time = 1.722438
+152: It is a Plane: range = 90, lifting capacity = 58
+Perfect time = 0.574386
+153: It is a Train: wagons number = 37, 
+Perfect time = 1.879798 
+154: It is a Plane: range = 35, lifting capacity = 99
+Perfect time = 1.009075
+155: It is a Plane: range = 110, lifting capacity = 37
+Perfect time = 0.118125
+156: It is a Train: wagons number = 14, 
+Perfect time = 0.436574 
+157: It is a Plane: range = 76, lifting capacity = 10
+Perfect time = 0.708460
+158: It is a Ship: displacement = 2657 
+It's type : LINEAR. Perfect time = 3.091703
+159: It is a Ship: displacement = 2847 
+It's type : TANKER. Perfect time = 6.432953
+160: It is a Ship: displacement = 2623 
+It's type : TUGBOAT. Perfect time = 4.366293
+161: It is a Plane: range = 60, lifting capacity = 47
+Perfect time = 0.317066
+162: It is a Plane: range = 79, lifting capacity = 51
+Perfect time = 0.064192
+163: It is a Ship: displacement = 2595 
+It's type : TANKER. Perfect time = 2.116696
+164: It is a Train: wagons number = 69, 
+Perfect time = 1.346412 
+165: It is a Train: wagons number = 68, 
+Perfect time = 2.140582 
+166: It is a Train: wagons number = 24, 
+Perfect time = 2.549621 
+167: It is a Ship: displacement = 890 
+It's type : TUGBOAT. Perfect time = 5.566560
+168: It is a Plane: range = 59, lifting capacity = 26
+Perfect time = 0.483023
+169: It is a Plane: range = 86, lifting capacity = 45
+Perfect time = 0.268198
+170: It is a Ship: displacement = 2836 
+It's type : LINEAR. Perfect time = 7.431355
+171: It is a Plane: range = 78, lifting capacity = 61
+Perfect time = 1.247892
+172: It is a Ship: displacement = 2259 
+It's type : LINEAR. Perfect time = 7.444349
+173: It is a Train: wagons number = 40, 
+Perfect time = 1.993785 
+174: It is a Ship: displacement = 865 
+It's type : TANKER. Perfect time = 11.349296
+175: It is a Train: wagons number = 73, 
+Perfect time = 3.093576 
+176: It is a Train: wagons number = 16, 
+Perfect time = 1.279569 
+177: It is a Ship: displacement = 1798 
+It's type : TUGBOAT. Perfect time = 4.598305
+178: It is a Plane: range = 58, lifting capacity = 17
+Perfect time = 0.550514
+179: It is a Train: wagons number = 60, 
+Perfect time = 1.774713 
+180: It is a Train: wagons number = 84, 
+Perfect time = 0.238611 
+181: It is a Plane: range = 81, lifting capacity = 61
+Perfect time = 1.012092
+182: It is a Train: wagons number = 16, 
+Perfect time = 1.701044 
+183: It is a Ship: displacement = 874 
+It's type : TUGBOAT. Perfect time = 0.619539
+184: It is a Plane: range = 30, lifting capacity = 53
+Perfect time = 0.699271
+185: It is a Train: wagons number = 22, 
+Perfect time = 1.266223 
+186: It is a Ship: displacement = 957 
+It's type : TANKER. Perfect time = 10.299223
+187: It is a Ship: displacement = 964 
+It's type : TANKER. Perfect time = 15.640865
+188: It is a Ship: displacement = 835 
+It's type : TUGBOAT. Perfect time = 1.277264
+189: It is a Ship: displacement = 842 
+It's type : TANKER. Perfect time = 3.850237
+190: It is a Plane: range = 58, lifting capacity = 55
+Perfect time = 0.605183
+191: It is a Train: wagons number = 77, 
+Perfect time = 0.461320 
+192: It is a Train: wagons number = 42, 
+Perfect time = 0.069784 
+193: It is a Train: wagons number = 61, 
+Perfect time = 0.667384 
+194: It is a Train: wagons number = 69, 
+Perfect time = 2.023312 
+195: It is a Ship: displacement = 1742 
+It's type : TUGBOAT. Perfect time = 3.096052
+196: It is a Plane: range = 94, lifting capacity = 101
+Perfect time = 0.230077
+197: It is a Train: wagons number = 83, 
+Perfect time = 7.389853 
+198: It is a Train: wagons number = 39, 
+Perfect time = 1.663105 
+199: It is a Train: wagons number = 95, 
+Perfect time = 3.072520 
+200: It is a Plane: range = 89, lifting capacity = 35
+Perfect time = 0.177410
+201: It is a Train: wagons number = 29, 
+Perfect time = 2.053593 
+202: It is a Plane: range = 80, lifting capacity = 29
+Perfect time = 0.322027
+203: It is a Ship: displacement = 2690 
+It's type : TANKER. Perfect time = 3.457837
+204: It is a Train: wagons number = 50, 
+Perfect time = 2.534225 
+205: It is a Plane: range = 87, lifting capacity = 87
+Perfect time = 0.986328
+206: It is a Ship: displacement = 2992 
+It's type : LINEAR. Perfect time = 6.515795
+207: It is a Train: wagons number = 98, 
+Perfect time = 1.902745 
+208: It is a Train: wagons number = 20, 
+Perfect time = 0.441385 
+209: It is a Plane: range = 11, lifting capacity = 104
+Perfect time = 0.837410
+210: It is a Train: wagons number = 58, 
+Perfect time = 1.016292 
+211: It is a Train: wagons number = 80, 
+Perfect time = 3.510029 
+212: It is a Ship: displacement = 725 
+It's type : TANKER. Perfect time = 0.307314
+213: It is a Ship: displacement = 2751 
+It's type : TANKER. Perfect time = 5.651963
+214: It is a Plane: range = 55, lifting capacity = 60
+Perfect time = 0.516114
+215: It is a Ship: displacement = 988 
+It's type : TUGBOAT. Perfect time = 5.375952
+216: It is a Ship: displacement = 854 
+It's type : LINEAR. Perfect time = 0.081309
+217: It is a Train: wagons number = 40, 
+Perfect time = 0.685774 
+218: It is a Ship: displacement = 1775 
+It's type : TANKER. Perfect time = 6.162811
+219: It is a Train: wagons number = 44, 
+Perfect time = 1.369370 
+220: It is a Plane: range = 65, lifting capacity = 26
+Perfect time = 0.239495
+221: It is a Plane: range = 51, lifting capacity = 46
+Perfect time = 0.246604
+222: It is a Ship: displacement = 2736 
+It's type : TANKER. Perfect time = 2.300032
+223: It is a Ship: displacement = 1123 
+It's type : TANKER. Perfect time = 8.137207
+224: It is a Train: wagons number = 54, 
+Perfect time = 3.221481 
+225: It is a Ship: displacement = 1922 
+It's type : TANKER. Perfect time = 4.627628
+226: It is a Ship: displacement = 742 
+It's type : TANKER. Perfect time = 0.449047
+227: It is a Plane: range = 51, lifting capacity = 82
+Perfect time = 0.120694
+228: It is a Plane: range = 51, lifting capacity = 46
+Perfect time = 0.442860
+229: It is a Train: wagons number = 75, 
+Perfect time = 1.021850 
+230: It is a Train: wagons number = 39, 
+Perfect time = 3.066150 
+231: It is a Plane: range = 72, lifting capacity = 49
+Perfect time = 0.278540
+232: It is a Train: wagons number = 46, 
+Perfect time = 8.034537 
+233: It is a Plane: range = 16, lifting capacity = 52
+Perfect time = 0.687575
+234: It is a Plane: range = 24, lifting capacity = 83
+Perfect time = 1.227791
+235: It is a Plane: range = 97, lifting capacity = 41
+Perfect time = 1.422228
+236: It is a Train: wagons number = 43, 
+Perfect time = 4.103197 
+237: It is a Plane: range = 23, lifting capacity = 94
+Perfect time = 0.199511
+238: It is a Plane: range = 62, lifting capacity = 78
+Perfect time = 0.927888
+239: It is a Train: wagons number = 52, 
+Perfect time = 2.862575 
+240: It is a Plane: range = 102, lifting capacity = 50
+Perfect time = 0.186440
+241: It is a Ship: displacement = 3420 
+It's type : TANKER. Perfect time = 2.747403
+242: It is a Train: wagons number = 47, 
+Perfect time = 2.436998 
+243: It is a Ship: displacement = 2451 
+It's type : TUGBOAT. Perfect time = 1.287557
+244: It is a Ship: displacement = 2994 
+It's type : TUGBOAT. Perfect time = 1.476569
+245: It is a Train: wagons number = 80, 
+Perfect time = 0.676972 
+246: It is a Plane: range = 45, lifting capacity = 95
+Perfect time = 0.478647
+247: It is a Plane: range = 98, lifting capacity = 76
+Perfect time = 0.373753
+248: It is a Ship: displacement = 2368 
+It's type : LINEAR. Perfect time = 1.383648
+249: It is a Train: wagons number = 83, 
+Perfect time = 1.393903 
+250: It is a Ship: displacement = 3225 
+It's type : TANKER. Perfect time = 2.867454
+251: It is a Train: wagons number = 68, 
+Perfect time = 2.173205 
+252: It is a Plane: range = 73, lifting capacity = 19
+Perfect time = 0.482283
+253: It is a Plane: range = 53, lifting capacity = 86
+Perfect time = 0.190553
+254: It is a Plane: range = 33, lifting capacity = 53
+Perfect time = 0.043486
+255: It is a Ship: displacement = 1475 
+It's type : LINEAR. Perfect time = 5.571169
+256: It is a Train: wagons number = 41, 
+Perfect time = 2.378214 
+257: It is a Plane: range = 92, lifting capacity = 84
+Perfect time = 0.171978
+258: It is a Train: wagons number = 22, 
+Perfect time = 2.134524 
+259: It is a Plane: range = 52, lifting capacity = 40
+Perfect time = 0.453519
+260: It is a Plane: range = 61, lifting capacity = 55
+Perfect time = 0.071921
+261: It is a Ship: displacement = 656 
+It's type : LINEAR. Perfect time = 2.058356
+262: It is a Ship: displacement = 999 
+It's type : TANKER. Perfect time = 0.914830
+263: It is a Plane: range = 17, lifting capacity = 7
+Perfect time = 0.009831
+264: It is a Train: wagons number = 34, 
+Perfect time = 2.489786 
+265: It is a Plane: range = 79, lifting capacity = 66
+Perfect time = 0.559975
+266: It is a Ship: displacement = 2214 
+It's type : TANKER. Perfect time = 3.251018
+267: It is a Train: wagons number = 61, 
+Perfect time = 1.531675 
+268: It is a Ship: displacement = 1869 
+It's type : TANKER. Perfect time = 7.114631
+269: It is a Train: wagons number = 10, 
+Perfect time = 0.898854 
+270: It is a Plane: range = 99, lifting capacity = 70
+Perfect time = 0.087169
+271: It is a Ship: displacement = 708 
+It's type : LINEAR. Perfect time = 7.672590
+272: It is a Train: wagons number = 93, 
+Perfect time = 4.785635 
+273: It is a Train: wagons number = 13, 
+Perfect time = 1.851383 
+274: It is a Ship: displacement = 1153 
+It's type : TANKER. Perfect time = 1.913717
+275: It is a Ship: displacement = 2615 
+It's type : LINEAR. Perfect time = 3.186787
+276: It is a Ship: displacement = 2301 
+It's type : TANKER. Perfect time = 7.740902
+277: It is a Ship: displacement = 1628 
+It's type : LINEAR. Perfect time = 4.043143
+278: It is a Train: wagons number = 81, 
+Perfect time = 0.975041 
+279: It is a Train: wagons number = 95, 
+Perfect time = 2.086106 
+280: It is a Ship: displacement = 1685 
+It's type : TANKER. Perfect time = 1.740225
+281: It is a Ship: displacement = 1054 
+It's type : LINEAR. Perfect time = 2.890389
+282: It is a Ship: displacement = 731 
+It's type : TUGBOAT. Perfect time = 2.220227
+283: It is a Train: wagons number = 48, 
+Perfect time = 9.022531 
+284: It is a Ship: displacement = 538 
+It's type : TANKER. Perfect time = 11.792510
+285: It is a Ship: displacement = 1306 
+It's type : TUGBOAT. Perfect time = 0.807942
+286: It is a Train: wagons number = 67, 
+Perfect time = 0.768913 
+287: It is a Train: wagons number = 18, 
+Perfect time = 2.270799 
+288: It is a Plane: range = 53, lifting capacity = 13
+Perfect time = 0.434308
+289: It is a Plane: range = 59, lifting capacity = 14
+Perfect time = 0.094398
+290: It is a Train: wagons number = 58, 
+Perfect time = 2.356469 
+291: It is a Plane: range = 62, lifting capacity = 42
+Perfect time = 0.004392
+292: It is a Ship: displacement = 751 
+It's type : TANKER. Perfect time = 1.985046
+293: It is a Train: wagons number = 40, 
+Perfect time = 3.472487 
+294: It is a Plane: range = 104, lifting capacity = 52
+Perfect time = 0.117703
+295: It is a Plane: range = 44, lifting capacity = 105
+Perfect time = 0.849191
+296: It is a Plane: range = 37, lifting capacity = 60
+Perfect time = 1.491503
+297: It is a Ship: displacement = 1517 
+It's type : TUGBOAT. Perfect time = 0.708202
+298: It is a Ship: displacement = 2019 
+It's type : LINEAR. Perfect time = 3.138759
+299: It is a Plane: range = 38, lifting capacity = 79
+Perfect time = 0.715927
+300: It is a Plane: range = 31, lifting capacity = 31
+Perfect time = 0.318697
+301: It is a Train: wagons number = 86, 
+Perfect time = 1.818900 
+302: It is a Plane: range = 41, lifting capacity = 99
+Perfect time = 0.120763
+303: It is a Train: wagons number = 16, 
+Perfect time = 2.493619 
+304: It is a Ship: displacement = 1931 
+It's type : TANKER. Perfect time = 3.579966
+305: It is a Train: wagons number = 45, 
+Perfect time = 8.101262 
+306: It is a Plane: range = 107, lifting capacity = 53
+Perfect time = 0.744674
+307: It is a Ship: displacement = 2782 
+It's type : TANKER. Perfect time = 4.369632
+308: It is a Plane: range = 51, lifting capacity = 21
+Perfect time = 0.862792
+309: It is a Train: wagons number = 29, 
+Perfect time = 1.420784 
+310: It is a Ship: displacement = 2180 
+It's type : TANKER. Perfect time = 0.823210
+311: It is a Plane: range = 105, lifting capacity = 21
+Perfect time = 0.099340
+312: It is a Train: wagons number = 86, 
+Perfect time = 1.014891 
+313: It is a Plane: range = 105, lifting capacity = 62
+Perfect time = 0.466992
+314: It is a Plane: range = 83, lifting capacity = 39
+Perfect time = 0.576392
+315: It is a Plane: range = 67, lifting capacity = 23
+Perfect time = 0.662063
+316: It is a Ship: displacement = 1918 
+It's type : TANKER. Perfect time = 5.704196
+317: It is a Train: wagons number = 50, 
+Perfect time = 0.392927 
+318: It is a Train: wagons number = 58, 
+Perfect time = 2.844421 
+319: It is a Ship: displacement = 1223 
+It's type : TUGBOAT. Perfect time = 4.353733
+320: It is a Ship: displacement = 2847 
+It's type : TUGBOAT. Perfect time = 0.902974
+321: It is a Train: wagons number = 66, 
+Perfect time = 3.089289 
+322: It is a Plane: range = 10, lifting capacity = 92
+Perfect time = 1.046234
+323: It is a Train: wagons number = 58, 
+Perfect time = 3.724266 
+324: It is a Plane: range = 38, lifting capacity = 49
+Perfect time = 0.402333
+325: It is a Plane: range = 105, lifting capacity = 82
+Perfect time = 0.693552
+326: It is a Plane: range = 45, lifting capacity = 75
+Perfect time = 0.585065
+327: It is a Ship: displacement = 2949 
+It's type : LINEAR. Perfect time = 5.452522
+328: It is a Ship: displacement = 3480 
+It's type : TUGBOAT. Perfect time = 3.291057
+329: It is a Train: wagons number = 40, 
+Perfect time = 0.488774 
+330: It is a Ship: displacement = 897 
+It's type : TUGBOAT. Perfect time = 3.233568
+331: It is a Plane: range = 108, lifting capacity = 53
+Perfect time = 0.208656
+332: It is a Train: wagons number = 17, 
+Perfect time = 0.348429 
+333: It is a Plane: range = 48, lifting capacity = 18
+Perfect time = 0.100244
+334: It is a Plane: range = 60, lifting capacity = 19
+Perfect time = 0.329532
+335: It is a Train: wagons number = 48, 
+Perfect time = 1.438879 
+336: It is a Ship: displacement = 2109 
+It's type : TANKER. Perfect time = 4.152967
+337: It is a Train: wagons number = 20, 
+Perfect time = 1.601635 
+338: It is a Plane: range = 24, lifting capacity = 60
+Perfect time = 0.801485
+339: It is a Plane: range = 10, lifting capacity = 59
+Perfect time = 0.887654
+340: It is a Plane: range = 67, lifting capacity = 105
+Perfect time = 0.943476
+341: It is a Ship: displacement = 530 
+It's type : TANKER. Perfect time = 1.082530
+342: It is a Train: wagons number = 42, 
+Perfect time = 0.265815 
+343: It is a Ship: displacement = 2989 
+It's type : TANKER. Perfect time = 8.324929
+344: It is a Plane: range = 56, lifting capacity = 12
+Perfect time = 0.275705
+345: It is a Ship: displacement = 2822 
+It's type : TANKER. Perfect time = 2.736825
+346: It is a Ship: displacement = 732 
+It's type : TANKER. Perfect time = 0.205222
+347: It is a Plane: range = 77, lifting capacity = 31
+Perfect time = 0.329856
+348: It is a Plane: range = 64, lifting capacity = 32
+Perfect time = 0.255796
+349: It is a Plane: range = 99, lifting capacity = 49
+Perfect time = 0.619733
+350: It is a Train: wagons number = 59, 
+Perfect time = 0.180297 
+351: It is a Plane: range = 20, lifting capacity = 67
+Perfect time = 1.050358
+352: It is a Train: wagons number = 94, 
+Perfect time = 3.782245 
+353: It is a Plane: range = 40, lifting capacity = 83
+Perfect time = 0.469983
+354: It is a Plane: range = 100, lifting capacity = 88
+Perfect time = 0.584349
+355: It is a Train: wagons number = 30, 
+Perfect time = 0.475537 
+356: It is a Plane: range = 74, lifting capacity = 89
+Perfect time = 1.089623
+357: It is a Plane: range = 69, lifting capacity = 30
+Perfect time = 0.754870
+358: It is a Train: wagons number = 16, 
+Perfect time = 0.920070 
+359: It is a Plane: range = 13, lifting capacity = 19
+Perfect time = 0.174536
+360: It is a Plane: range = 27, lifting capacity = 36
+Perfect time = 0.463965
+361: It is a Plane: range = 89, lifting capacity = 87
+Perfect time = 1.525857
+362: It is a Train: wagons number = 93, 
+Perfect time = 0.707115 
+363: It is a Train: wagons number = 74, 
+Perfect time = 2.695156 
+364: It is a Ship: displacement = 3114 
+It's type : TANKER. Perfect time = 4.356049
+365: It is a Ship: displacement = 1843 
+It's type : TUGBOAT. Perfect time = 4.590873
+366: It is a Train: wagons number = 43, 
+Perfect time = 3.443689 
+367: It is a Train: wagons number = 75, 
+Perfect time = 7.874703 
+368: It is a Ship: displacement = 2737 
+It's type : LINEAR. Perfect time = 0.505529
+369: It is a Train: wagons number = 55, 
+Perfect time = 2.189126 
+370: It is a Plane: range = 88, lifting capacity = 58
+Perfect time = 0.281386
+371: It is a Train: wagons number = 16, 
+Perfect time = 2.599727 
+372: It is a Ship: displacement = 621 
+It's type : TUGBOAT. Perfect time = 0.326276
+373: It is a Train: wagons number = 100, 
+Perfect time = 7.060139 
+374: It is a Ship: displacement = 2506 
+It's type : TUGBOAT. Perfect time = 0.978578
+375: It is a Ship: displacement = 2893 
+It's type : TANKER. Perfect time = 1.516455
+376: It is a Train: wagons number = 10, 
+Perfect time = 1.363169 
+377: It is a Plane: range = 78, lifting capacity = 71
+Perfect time = 0.346792
+378: It is a Plane: range = 90, lifting capacity = 87
+Perfect time = 1.113224
+379: It is a Train: wagons number = 25, 
+Perfect time = 0.404306 
+380: It is a Ship: displacement = 1467 
+It's type : TUGBOAT. Perfect time = 2.844439
+381: It is a Train: wagons number = 94, 
+Perfect time = 2.659957 
+382: It is a Train: wagons number = 52, 
+Perfect time = 1.365177 
+383: It is a Ship: displacement = 693 
+It's type : TANKER. Perfect time = 1.352224
+384: It is a Ship: displacement = 2972 
+It's type : TUGBOAT. Perfect time = 2.716634
+385: It is a Train: wagons number = 52, 
+Perfect time = 0.441840 
+386: It is a Ship: displacement = 2642 
+It's type : LINEAR. Perfect time = 5.693979
+387: It is a Plane: range = 18, lifting capacity = 52
+Perfect time = 0.388059
+388: It is a Ship: displacement = 2954 
+It's type : LINEAR. Perfect time = 11.519732
+389: It is a Plane: range = 94, lifting capacity = 6
+Perfect time = 1.233332
+390: It is a Train: wagons number = 76, 
+Perfect time = 2.294355 
+391: It is a Plane: range = 17, lifting capacity = 25
+Perfect time = 0.456176
+392: It is a Train: wagons number = 45, 
+Perfect time = 0.992558 
+393: It is a Plane: range = 101, lifting capacity = 44
+Perfect time = 0.284261
+394: It is a Plane: range = 87, lifting capacity = 8
+Perfect time = 0.443827
+395: It is a Train: wagons number = 54, 
+Perfect time = 0.934314 
+396: It is a Ship: displacement = 638 
+It's type : LINEAR. Perfect time = 3.226186
+397: It is a Ship: displacement = 2866 
+It's type : LINEAR. Perfect time = 8.577392
+398: It is a Ship: displacement = 1099 
+It's type : TUGBOAT. Perfect time = 3.625260
+399: It is a Plane: range = 14, lifting capacity = 93
+Perfect time = 0.940775
+400: It is a Train: wagons number = 19, 
+Perfect time = 5.379415 
+401: It is a Plane: range = 75, lifting capacity = 45
+Perfect time = 1.091182
+402: It is a Train: wagons number = 100, 
+Perfect time = 3.028577 
+403: It is a Ship: displacement = 826 
+It's type : TANKER. Perfect time = 2.127656
+404: It is a Train: wagons number = 57, 
+Perfect time = 2.576959 
+405: It is a Train: wagons number = 57, 
+Perfect time = 2.622632 
+406: It is a Plane: range = 84, lifting capacity = 55
+Perfect time = 0.474443
+407: It is a Ship: displacement = 2899 
+It's type : TUGBOAT. Perfect time = 10.243470
+408: It is a Train: wagons number = 56, 
+Perfect time = 0.857348 
+409: It is a Train: wagons number = 56, 
+Perfect time = 3.591191 
+410: It is a Train: wagons number = 48, 
+Perfect time = 2.438016 
+411: It is a Plane: range = 60, lifting capacity = 28
+Perfect time = 0.835699
+412: It is a Ship: displacement = 2653 
+It's type : TUGBOAT. Perfect time = 4.080170
+413: It is a Train: wagons number = 16, 
+Perfect time = 2.728492 
+414: It is a Ship: displacement = 1357 
+It's type : LINEAR. Perfect time = 2.608361
+415: It is a Train: wagons number = 44, 
+Perfect time = 1.467425 
+416: It is a Ship: displacement = 1544 
+It's type : TANKER. Perfect time = 6.926617
+417: It is a Plane: range = 25, lifting capacity = 16
+Perfect time = 0.866559
+418: It is a Ship: displacement = 2149 
+It's type : TUGBOAT. Perfect time = 1.687191
+419: It is a Ship: displacement = 2871 
+It's type : LINEAR. Perfect time = 3.466045
+420: It is a Ship: displacement = 1934 
+It's type : TANKER. Perfect time = 3.335128
+421: It is a Plane: range = 39, lifting capacity = 55
+Perfect time = 0.901553
+422: It is a Plane: range = 77, lifting capacity = 66
+Perfect time = 1.005597
+423: It is a Ship: displacement = 578 
+It's type : TUGBOAT. Perfect time = 1.458101
+424: It is a Ship: displacement = 2174 
+It's type : LINEAR. Perfect time = 2.491095
+425: It is a Ship: displacement = 3105 
+It's type : TUGBOAT. Perfect time = 3.242511
+426: It is a Ship: displacement = 2113 
+It's type : TUGBOAT. Perfect time = 0.139863
+427: It is a Ship: displacement = 2617 
+It's type : LINEAR. Perfect time = 1.775974
+428: It is a Train: wagons number = 90, 
+Perfect time = 1.359942 
+429: It is a Ship: displacement = 2534 
+It's type : LINEAR. Perfect time = 0.939597
+430: It is a Ship: displacement = 1367 
+It's type : TANKER. Perfect time = 2.603917
+431: It is a Train: wagons number = 98, 
+Perfect time = 1.089318 
+432: It is a Ship: displacement = 3417 
+It's type : TUGBOAT. Perfect time = 4.442155
+433: It is a Plane: range = 43, lifting capacity = 63
+Perfect time = 0.345794
+434: It is a Plane: range = 64, lifting capacity = 63
+Perfect time = 0.842477
+435: It is a Plane: range = 61, lifting capacity = 13
+Perfect time = 0.531498
+436: It is a Ship: displacement = 2865 
+It's type : TUGBOAT. Perfect time = 4.689015
+437: It is a Ship: displacement = 2680 
+It's type : TUGBOAT. Perfect time = 2.172444
+438: It is a Train: wagons number = 85, 
+Perfect time = 0.026207 
+439: It is a Plane: range = 100, lifting capacity = 85
+Perfect time = 0.036724
+440: It is a Train: wagons number = 16, 
+Perfect time = 0.601738 
+441: It is a Train: wagons number = 14, 
+Perfect time = 4.518795 
+442: It is a Ship: displacement = 1859 
+It's type : TUGBOAT. Perfect time = 7.681293
+443: It is a Ship: displacement = 1297 
+It's type : TUGBOAT. Perfect time = 8.916861
+444: It is a Train: wagons number = 59, 
+Perfect time = 1.529983 
+445: It is a Plane: range = 14, lifting capacity = 34
+Perfect time = 0.519900
+446: It is a Train: wagons number = 20, 
+Perfect time = 1.763627 
+447: It is a Train: wagons number = 15, 
+Perfect time = 4.297822 
+448: It is a Train: wagons number = 71, 
+Perfect time = 4.314420 
+449: It is a Train: wagons number = 13, 
+Perfect time = 2.677749 
+450: It is a Train: wagons number = 25, 
+Perfect time = 2.710939 
+451: It is a Ship: displacement = 2994 
+It's type : TANKER. Perfect time = 0.124285
+452: It is a Ship: displacement = 892 
+It's type : TUGBOAT. Perfect time = 5.711333
+453: It is a Ship: displacement = 1002 
+It's type : TANKER. Perfect time = 0.030042
+454: It is a Plane: range = 64, lifting capacity = 99
+Perfect time = 0.337157
+455: It is a Ship: displacement = 682 
+It's type : TANKER. Perfect time = 7.437401
+456: It is a Ship: displacement = 848 
+It's type : TUGBOAT. Perfect time = 0.229848
+457: It is a Plane: range = 19, lifting capacity = 105
+Perfect time = 0.407874
+458: It is a Ship: displacement = 3397 
+It's type : LINEAR. Perfect time = 2.847226
+459: It is a Ship: displacement = 3031 
+It's type : TANKER. Perfect time = 13.944610
+460: It is a Plane: range = 102, lifting capacity = 44
+Perfect time = 0.064755
+461: It is a Train: wagons number = 98, 
+Perfect time = 1.230967 
+462: It is a Train: wagons number = 63, 
+Perfect time = 3.264239 
+463: It is a Train: wagons number = 53, 
+Perfect time = 0.502856 
+464: It is a Plane: range = 62, lifting capacity = 50
+Perfect time = 0.333905
+465: It is a Ship: displacement = 905 
+It's type : TANKER. Perfect time = 3.339389
+466: It is a Plane: range = 43, lifting capacity = 90
+Perfect time = 0.466191
+467: It is a Ship: displacement = 1127 
+It's type : LINEAR. Perfect time = 3.450870
+468: It is a Ship: displacement = 3027 
+It's type : LINEAR. Perfect time = 2.639463
+469: It is a Plane: range = 105, lifting capacity = 21
+Perfect time = 1.050206
+470: It is a Plane: range = 42, lifting capacity = 26
+Perfect time = 0.958969
+471: It is a Ship: displacement = 2912 
+It's type : LINEAR. Perfect time = 0.889921
+472: It is a Train: wagons number = 72, 
+Perfect time = 1.774134 
+473: It is a Ship: displacement = 946 
+It's type : TUGBOAT. Perfect time = 3.457797
+474: It is a Train: wagons number = 28, 
+Perfect time = 1.470804 
+475: It is a Ship: displacement = 3199 
+It's type : TUGBOAT. Perfect time = 4.388181
+476: It is a Train: wagons number = 16, 
+Perfect time = 0.968227 
+477: It is a Train: wagons number = 34, 
+Perfect time = 4.742513 
+478: It is a Ship: displacement = 2655 
+It's type : TUGBOAT. Perfect time = 8.441236
+479: It is a Ship: displacement = 3464 
+It's type : TANKER. Perfect time = 4.722959
+480: It is a Train: wagons number = 17, 
+Perfect time = 3.314893 
+481: It is a Train: wagons number = 89, 
+Perfect time = 3.488671 
+482: It is a Train: wagons number = 27, 
+Perfect time = 5.976127 
+483: It is a Train: wagons number = 48, 
+Perfect time = 1.173744 
+484: It is a Plane: range = 110, lifting capacity = 85
+Perfect time = 0.286776
+485: It is a Ship: displacement = 1210 
+It's type : TANKER. Perfect time = 4.791773
+486: It is a Ship: displacement = 2147 
+It's type : LINEAR. Perfect time = 1.003139
+487: It is a Ship: displacement = 2872 
+It's type : TUGBOAT. Perfect time = 2.840092
+488: It is a Train: wagons number = 77, 
+Perfect time = 1.455237 
+489: It is a Train: wagons number = 96, 
+Perfect time = 3.806157 
+490: It is a Train: wagons number = 47, 
+Perfect time = 0.190015 
+491: It is a Ship: displacement = 3193 
+It's type : LINEAR. Perfect time = 7.502555
+492: It is a Train: wagons number = 51, 
+Perfect time = 0.075021 
+493: It is a Train: wagons number = 91, 
+Perfect time = 2.746417 
+494: It is a Train: wagons number = 81, 
+Perfect time = 0.249178 
+495: It is a Ship: displacement = 2784 
+It's type : TUGBOAT. Perfect time = 6.344418
+496: It is a Ship: displacement = 1293 
+It's type : TUGBOAT. Perfect time = 0.325823
+497: It is a Plane: range = 13, lifting capacity = 26
+Perfect time = 1.037814
+498: It is a Train: wagons number = 33, 
+Perfect time = 0.718371 
+499: It is a Plane: range = 54, lifting capacity = 51
+Perfect time = 0.284175
